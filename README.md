@@ -4,7 +4,7 @@ DCU Quiz checks the knowledge of DC Fans about how well the knew DC Universe.
 
 Are U Ready Fans?
 
-Click on link : [Let's Play]  (https://replit.com/@AyushGupta61/quiz-on-dcu?embed=1&output=1)
+Click on link : [Let's Play](https://replit.com/@AyushGupta61/quiz-on-dcu?embed=1&output=1)
 
 
 ---
