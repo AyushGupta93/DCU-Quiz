@@ -39,7 +39,7 @@ var question=[{
 function welcome(){
 var userName=readline.question("What's your name? ");
 log('Welcome',right(userName),"let's see how well you know",text('DC UNIVERSE'),"?" );
-log("-----------------")
+log("----------------")
 };
 
 //play
