@@ -38,7 +38,7 @@ var question=[{
 //welcome
 function welcome(){
 var userName=readline.question("What's your name? ");
-log('Welcome',right(userName),"let's see if you know",text('DC UNIVERSE'),"?" );
+log('Welcome',right(userName),"let's see how well you know",text('DC UNIVERSE'),"?" );
 log("-----------------")
 };
 
